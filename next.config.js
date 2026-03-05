@@ -11,11 +11,11 @@ const nextConfig = {
     unoptimized: true
   },
 
-  // Configure base path for GitHub Pages (will be updated with repo name)
-  // basePath: '/taxi-service-website', // Uncomment and update when deploying to GitHub Pages
+  // Configure base path for GitHub Pages
+  basePath: '/taxi-service-website',
 
   // Configure asset prefix for GitHub Pages
-  // assetPrefix: '/taxi-service-website/', // Uncomment and update when deploying to GitHub Pages
+  assetPrefix: '/taxi-service-website/'
 
   // Disable server-side features for static export
   // Server Actions are enabled by default in Next.js 14+
