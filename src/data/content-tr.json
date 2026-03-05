@@ -1,22 +1,22 @@
 {
   "hero": {
-    "title": "Güvenilir ve Profesyonel Taksi Hizmeti",
-    "subtitle": "8 yıllık deneyim • 24/7 hizmet • Şeffaf fiyatlandırma",
+    "title": "İstanbul'da Güvenilir Taksi Hizmeti",
+    "subtitle": "Profesyonel hizmet • 24/7 erişilebilir • Şeffaf fiyatlandırma",
     "ctaPrimary": "WhatsApp'tan İletişime Geç",
     "ctaSecondary": "Telefon Et",
     "trustBadge": "Lisanslı ve Güvenli"
   },
   "about": {
-    "title": "Popo ile Tanışın",
-    "content": "Merhaba! Ben Popo, 8 yıldır bu güzel şehirde taksi şoförü olarak hizmet veriyorum. Müşterilerime sadece bir ulaşım hizmeti değil, güvenli ve konforlu bir deneyim sunmayı amaçlıyorum.",
+    "title": "Hakkımızda",
+    "content": "İstanbul'un her noktasına profesyonel taksi hizmeti sunuyoruz. Müşterilerimize sadece ulaşım değil, güvenli ve konforlu bir deneyim sunmayı amaçlıyoruz.",
     "experience": [
-      "8 yıl profesyonel sürücülük deneyimi",
-      "Temiz sürücü belgesi - hiç ceza puanı yok",
-      "Türkçe, İngilizce konuşabiliyorum",
-      "Şehirdeki tüm sokakları ve kestirme yolları biliyorum",
-      "5 yıldızlı müşteri memnuniyeti"
+      "Profesyonel ve lisanslı sürücülük",
+      "Temiz sürücü belgesi ve güvenli sürüş",
+      "Türkçe, İngilizce konuşabiliyoruz",
+      "İstanbul'un tüm semtlerini ve yollarını biliyoruz",
+      "İstanbul ve Sabiha Gökçen havalimanları uzmanı"
     ],
-    "whyChoose": "Neden Popo'yu Seçmelisiniz:",
+    "whyChoose": "Neden Bizi Seçmelisiniz:",
     "reasons": [
       "Her zaman zamanında",
       "Temiz ve konforlu araç",
@@ -33,20 +33,24 @@
     "paymentMethods": "Ödeme Seçenekleri:",
     "routes": [
       {
-        "route": "Şehir Merkezi ↔ Havalimanı",
-        "price": "₺150-200"
+        "route": "İstanbul Havalimanı ↔ Şehir Merkezi",
+        "price": "₺200-300"
       },
       {
-        "route": "Otel Bölgesi ↔ Alışveriş Merkezi",
-        "price": "₺50-75"
+        "route": "Sabiha Gökçen ↔ Şehir Merkezi",
+        "price": "₺150-250"
       },
       {
-        "route": "Tren İstasyonu ↔ Şehir Merkezi",
-        "price": "₺40-60"
+        "route": "Sultanahmet ↔ Taksim",
+        "price": "₺60-80"
       },
       {
-        "route": "Turistik Mekanlar Arası",
-        "price": "₺80-120"
+        "route": "Boğaz Turu Ulaşımı",
+        "price": "₺100-150"
+      },
+      {
+        "route": "Günlük Özel Şoför",
+        "price": "₺800-1200"
       }
     ],
     "rates": [

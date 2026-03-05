@@ -1,75 +1,89 @@
 {
   "services": [
     {
-      "id": "city-transport",
-      "title": "Şehir İçi Ulaşım",
-      "description": "Şehir merkezi, alışveriş merkezleri, hastane ve günlük ihtiyaçlarınız için hızlı ve güvenli ulaşım.",
-      "icon": "car",
-      "basePrice": 20,
-      "perKmPrice": 8,
+      "id": "istanbul-airport",
+      "title": "İstanbul Havalimanı Transfer",
+      "description": "İstanbul Havalimanı'na ve havalimanından şehrin her noktasına güvenli ve konforlu transfer.",
+      "icon": "plane",
+      "basePrice": 200,
+      "perKmPrice": null,
       "features": [
-        "Temiz ve konforlu araç",
-        "Klima sistemi",
-        "Güvenli sürücü",
-        "Yerel yol bilgisi"
+        "Uçuş takibi",
+        "24 saat hizmet",
+        "Bagaj yardımı",
+        "Karşılama tabelası"
       ]
     },
     {
-      "id": "airport-transfer",
-      "title": "Havalimanı Transfer",
-      "description": "Tüm büyük havalimanlarına zamanında transfer. Uçak takibi ve erken saatler dahil.",
+      "id": "sabiha-airport",
+      "title": "Sabiha Gökçen Transfer",
+      "description": "Sabiha Gökçen Havalimanı transfer hizmeti. Avrupa ve Anadolu yakası her noktaya.",
       "icon": "plane",
       "basePrice": 150,
       "perKmPrice": null,
       "features": [
-        "Uçak takibi",
-        "24 saat hizmet",
-        "Bagaj yardımı",
-        "Erken kalkış"
+        "Uçuş takibi",
+        "Her iki yakaya hizmet",
+        "Profesyonel karşılama",
+        "Zamanında varış garantisi"
       ]
     },
     {
-      "id": "sightseeing-tours",
-      "title": "Turistik Turlar",
-      "description": "Şehrin en güzel yerlerini gezdiren özel turlar. Fotoğraf molası ve yerel hikayeler dahil.",
-      "icon": "camera",
-      "basePrice": 120,
+      "id": "daily-driver",
+      "title": "Günlük Özel Şoför",
+      "description": "8-12 saat boyunca size özel şoför hizmeti. İş toplantıları, alışveriş, turizm için ideal.",
+      "icon": "briefcase",
+      "basePrice": 800,
       "perKmPrice": null,
-      "hourlyRate": 120,
+      "hourlyRate": 100,
       "features": [
-        "Özel rehberlik",
-        "Fotoğraf molası",
-        "Yerel hikayeler",
+        "8-12 saat hizmet",
+        "Beklemeli hizmet",
+        "Çoklu durak",
         "Esnek program"
       ]
     },
     {
-      "id": "business-meetings",
-      "title": "İş Toplantıları",
-      "description": "Profesyonel iş görüşmeleriniz için zamanında ve konforlu ulaşım hizmeti.",
-      "icon": "briefcase",
-      "basePrice": 25,
-      "perKmPrice": 10,
+      "id": "bosphorus-tours",
+      "title": "Boğaz ve Tarihi Turlar",
+      "description": "Sultanahmet, Boğaz, Galata ve İstanbul'un tarihi mekanlarına özel tur ulaşımı.",
+      "icon": "camera",
+      "basePrice": 300,
+      "perKmPrice": null,
+      "hourlyRate": 120,
       "features": [
-        "Profesyonel hizmet",
-        "Zamanında varış",
-        "Temiz takım elbise",
-        "Sessiz yolculuk"
+        "Tarihi mekan rehberliği",
+        "Fotoğraf durakları",
+        "Boğaz manzaralı rotalar",
+        "Esnek tur programı"
       ]
     },
     {
-      "id": "emergency-service",
-      "title": "Acil Durum Hizmeti",
-      "description": "24 saat acil durum transportu. Hastane, eczane ve acil durumlarınız için.",
-      "icon": "alertTriangle",
-      "basePrice": 30,
-      "perKmPrice": 12,
-      "surcharge": 25,
+      "id": "city-transport",
+      "title": "Şehir İçi Ulaşım",
+      "description": "İstanbul'un her semtine güvenli ve hızlı ulaşım. Taksim, Kadıköy, Beşiktaş, Üsküdar.",
+      "icon": "car",
+      "basePrice": 25,
+      "perKmPrice": 8,
       "features": [
-        "24/7 erişilebilir",
-        "Hızlı yanıt",
-        "Hastane bilgisi",
-        "Acil durum kiti"
+        "Her semte hizmet",
+        "Trafik bilgisi",
+        "Temiz araç",
+        "Uygun fiyat"
+      ]
+    },
+    {
+      "id": "corporate-service",
+      "title": "Kurumsal Hizmet",
+      "description": "Şirketler için düzenli ulaşım, toplantı transferleri ve kurumsal etkinlik ulaşımı.",
+      "icon": "briefcase",
+      "basePrice": 50,
+      "perKmPrice": 10,
+      "features": [
+        "Faturalı hizmet",
+        "Düzenli rezervasyon",
+        "Kurumsal indirimler",
+        "Profesyonel hizmet"
       ]
     }
   ]

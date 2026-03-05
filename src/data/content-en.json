@@ -1,22 +1,22 @@
 {
   "hero": {
-    "title": "Reliable & Professional Taxi Service",
-    "subtitle": "8 years experience • 24/7 service • Transparent pricing",
+    "title": "Reliable Taxi Service in Istanbul",
+    "subtitle": "Professional service • 24/7 available • Transparent pricing",
     "ctaPrimary": "Contact via WhatsApp",
     "ctaSecondary": "Call Now",
     "trustBadge": "Licensed & Safe"
   },
   "about": {
-    "title": "Meet Popo",
-    "content": "Hello! I'm Popo, and I've been proudly serving this beautiful city as a taxi driver for 8 years. I aim to provide my customers not just transportation, but a safe and comfortable experience.",
+    "title": "About Us",
+    "content": "We provide professional taxi services to every corner of Istanbul. We aim to offer our customers not just transportation, but a safe and comfortable experience.",
     "experience": [
-      "8 years of professional driving experience",
-      "Clean driving record - zero penalty points",
+      "Professional and licensed driving service",
+      "Clean driving record and safe driving",
       "Fluent in Turkish and English",
-      "Know all streets and shortcuts in the city",
-      "5-star customer satisfaction"
+      "Know all districts and routes in Istanbul",
+      "Expert in Istanbul and Sabiha Gökçen airports"
     ],
-    "whyChoose": "Why Choose Popo:",
+    "whyChoose": "Why Choose Us:",
     "reasons": [
       "Always on time",
       "Clean and comfortable vehicle",
@@ -33,20 +33,24 @@
     "paymentMethods": "Payment Options:",
     "routes": [
       {
-        "route": "City Center ↔ Airport",
-        "price": "₺150-200"
+        "route": "Istanbul Airport ↔ City Center",
+        "price": "₺200-300"
       },
       {
-        "route": "Hotel District ↔ Shopping Mall",
-        "price": "₺50-75"
+        "route": "Sabiha Gökçen ↔ City Center",
+        "price": "₺150-250"
       },
       {
-        "route": "Train Station ↔ City Center",
-        "price": "₺40-60"
+        "route": "Sultanahmet ↔ Taksim",
+        "price": "₺60-80"
       },
       {
-        "route": "Tourist Attractions",
-        "price": "₺80-120"
+        "route": "Bosphorus Tour Transport",
+        "price": "₺100-150"
+      },
+      {
+        "route": "Daily Private Driver",
+        "price": "₺800-1200"
       }
     ],
     "rates": [

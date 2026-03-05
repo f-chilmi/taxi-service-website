@@ -103,9 +103,9 @@ export default function HomePage() {
               {/* Quick Stats */}
               <div className="grid grid-cols-3 gap-6 pt-8 border-t border-primary-200">
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-primary-700">8+</div>
+                  <div className="text-2xl font-bold text-primary-700">2</div>
                   <div className="text-sm text-gray-600">
-                    {language === 'tr' ? 'Yıl Deneyim' : 'Years Experience'}
+                    {language === 'tr' ? 'Havalimanı' : 'Airports'}
                   </div>
                 </div>
                 <div className="text-center">
@@ -115,9 +115,9 @@ export default function HomePage() {
                   </div>
                 </div>
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-primary-700">4.8★</div>
+                  <div className="text-2xl font-bold text-primary-700">100%</div>
                   <div className="text-sm text-gray-600">
-                    {language === 'tr' ? 'Müşteri Puanı' : 'Customer Rating'}
+                    {language === 'tr' ? 'Güvenilir' : 'Reliable'}
                   </div>
                 </div>
               </div>
@@ -393,14 +393,14 @@ export default function HomePage() {
       <footer className="bg-gray-900 text-white py-8">
         <div className="section-container">
           <div className="text-center">
-            <h3 className="text-xl font-bold mb-2">Popo Taxi</h3>
+            <h3 className="text-xl font-bold mb-2">İstanbul Taxi Service</h3>
             <p className="text-gray-400 mb-4">
               {language === 'tr'
-                ? 'Güvenilir ve profesyonel taksi hizmeti'
-                : 'Reliable and professional taxi service'}
+                ? 'İstanbul\'da güvenilir ve profesyonel taksi hizmeti'
+                : 'Reliable and professional taxi service in Istanbul'}
             </p>
-            <div className="flex justify-center items-center space-x-4 text-gray-400">
-              <span>&copy; 2024 Popo Taxi. </span>
+            <div className="flex flex-col md:flex-row justify-center items-center md:space-x-4 space-y-1 md:space-y-0 text-gray-400">
+              <span>&copy; 2026 İstanbul Taxi Service. </span>
               <span>
                 {language === 'tr' ? 'Tüm hakları saklıdır.' : 'All rights reserved.'}
               </span>
