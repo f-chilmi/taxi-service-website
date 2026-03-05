@@ -1,0 +1,76 @@
+{
+  "services": [
+    {
+      "id": "city-transport",
+      "title": "City Transportation",
+      "description": "Fast and safe transportation for city center, shopping malls, hospitals, and daily needs.",
+      "icon": "car",
+      "basePrice": 20,
+      "perKmPrice": 8,
+      "features": [
+        "Clean and comfortable vehicle",
+        "Air conditioning system",
+        "Safe driver",
+        "Local route knowledge"
+      ]
+    },
+    {
+      "id": "airport-transfer",
+      "title": "Airport Transfer",
+      "description": "On-time transfer to all major airports. Flight tracking and early morning service included.",
+      "icon": "plane",
+      "basePrice": 150,
+      "perKmPrice": null,
+      "features": [
+        "Flight tracking",
+        "24-hour service",
+        "Luggage assistance",
+        "Early departure"
+      ]
+    },
+    {
+      "id": "sightseeing-tours",
+      "title": "Sightseeing Tours",
+      "description": "Custom tours showing the city's most beautiful places. Photo stops and local stories included.",
+      "icon": "camera",
+      "basePrice": 120,
+      "perKmPrice": null,
+      "hourlyRate": 120,
+      "features": [
+        "Personal guide service",
+        "Photo stops",
+        "Local stories",
+        "Flexible schedule"
+      ]
+    },
+    {
+      "id": "business-meetings",
+      "title": "Business Meetings",
+      "description": "Punctual and comfortable transportation for your professional business meetings.",
+      "icon": "briefcase",
+      "basePrice": 25,
+      "perKmPrice": 10,
+      "features": [
+        "Professional service",
+        "Punctual arrival",
+        "Clean business attire",
+        "Quiet ride"
+      ]
+    },
+    {
+      "id": "emergency-service",
+      "title": "Emergency Service",
+      "description": "24-hour emergency transportation. For hospital, pharmacy, and urgent situations.",
+      "icon": "alertTriangle",
+      "basePrice": 30,
+      "perKmPrice": 12,
+      "surcharge": 25,
+      "features": [
+        "24/7 available",
+        "Quick response",
+        "Hospital knowledge",
+        "Emergency kit"
+      ]
+    }
+  ]
+}

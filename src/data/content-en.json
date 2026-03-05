@@ -1,0 +1,114 @@
+{
+  "hero": {
+    "title": "Reliable & Professional Taxi Service",
+    "subtitle": "8 years experience • 24/7 service • Transparent pricing",
+    "ctaPrimary": "Contact via WhatsApp",
+    "ctaSecondary": "Call Now",
+    "trustBadge": "Licensed & Safe"
+  },
+  "about": {
+    "title": "Meet Popo",
+    "content": "Hello! I'm Popo, and I've been proudly serving this beautiful city as a taxi driver for 8 years. I aim to provide my customers not just transportation, but a safe and comfortable experience.",
+    "experience": [
+      "8 years of professional driving experience",
+      "Clean driving record - zero penalty points",
+      "Fluent in Turkish and English",
+      "Know all streets and shortcuts in the city",
+      "5-star customer satisfaction"
+    ],
+    "whyChoose": "Why Choose Popo:",
+    "reasons": [
+      "Always on time",
+      "Clean and comfortable vehicle",
+      "Friendly and professional service",
+      "Transparent pricing - no surprise fees",
+      "24/7 emergency service available"
+    ]
+  },
+  "pricing": {
+    "title": "Transparent & Fair Pricing",
+    "subtitle": "No hidden fees - the price quoted is the price you pay!",
+    "popularRoutes": "Popular Routes:",
+    "serviceRates": "Service Rates:",
+    "paymentMethods": "Payment Options:",
+    "routes": [
+      {
+        "route": "City Center ↔ Airport",
+        "price": "₺150-200"
+      },
+      {
+        "route": "Hotel District ↔ Shopping Mall",
+        "price": "₺50-75"
+      },
+      {
+        "route": "Train Station ↔ City Center",
+        "price": "₺40-60"
+      },
+      {
+        "route": "Tourist Attractions",
+        "price": "₺80-120"
+      }
+    ],
+    "rates": [
+      {
+        "service": "City Transport",
+        "rate": "₺8/km + ₺20 base fare"
+      },
+      {
+        "service": "Airport Transfer",
+        "rate": "Fixed rates by distance"
+      },
+      {
+        "service": "Hourly Rate",
+        "rate": "₺120/hour (minimum 2 hours)"
+      },
+      {
+        "service": "Night Service (22:00-06:00)",
+        "rate": "+25% surcharge"
+      }
+    ],
+    "payments": ["Cash", "Credit Card", "Mobile Payment"]
+  },
+  "contact": {
+    "title": "Contact & Booking",
+    "hours": "Operating Hours:",
+    "channels": "Contact Channels:",
+    "response": "Response Time:",
+    "motto": "Customer satisfaction is our priority!",
+    "schedule": [
+      {
+        "day": "Monday-Friday",
+        "hours": "06:00-24:00"
+      },
+      {
+        "day": "Saturday-Sunday",
+        "hours": "24/7 service"
+      },
+      {
+        "day": "Emergency",
+        "hours": "Always available"
+      }
+    ],
+    "responseTime": [
+      {
+        "method": "WhatsApp",
+        "time": "Usually within 5 minutes"
+      },
+      {
+        "method": "Phone",
+        "time": "Immediate (business hours)"
+      },
+      {
+        "method": "Booking",
+        "time": "At least 1 hour in advance"
+      }
+    ]
+  },
+  "reviews": {
+    "title": "Customer Reviews",
+    "subtitle": "What our customers say",
+    "averageRating": "Average Rating",
+    "totalReviews": "total reviews",
+    "verified": "Verified Customer"
+  }
+}

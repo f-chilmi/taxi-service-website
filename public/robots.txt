@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://popotaxi.com/sitemap.xml
+
+# Block common bot paths (optional)
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+# Allow important pages
+Allow: /
+Allow: /en/
+Allow: /tr/

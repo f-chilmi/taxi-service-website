@@ -1,0 +1,27 @@
+{
+  "name": "Popo Taxi - Güvenilir Taksi Hizmeti",
+  "short_name": "Popo Taxi",
+  "description": "Güvenilir taksi hizmeti. 8 yıllık deneyim, şeffaf fiyat, 24/7 hizmet.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1E3A8A",
+  "theme_color": "#1E3A8A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["transportation", "business"],
+  "lang": "tr",
+  "dir": "ltr"
+}

@@ -1,0 +1,76 @@
+{
+  "services": [
+    {
+      "id": "city-transport",
+      "title": "Şehir İçi Ulaşım",
+      "description": "Şehir merkezi, alışveriş merkezleri, hastane ve günlük ihtiyaçlarınız için hızlı ve güvenli ulaşım.",
+      "icon": "car",
+      "basePrice": 20,
+      "perKmPrice": 8,
+      "features": [
+        "Temiz ve konforlu araç",
+        "Klima sistemi",
+        "Güvenli sürücü",
+        "Yerel yol bilgisi"
+      ]
+    },
+    {
+      "id": "airport-transfer",
+      "title": "Havalimanı Transfer",
+      "description": "Tüm büyük havalimanlarına zamanında transfer. Uçak takibi ve erken saatler dahil.",
+      "icon": "plane",
+      "basePrice": 150,
+      "perKmPrice": null,
+      "features": [
+        "Uçak takibi",
+        "24 saat hizmet",
+        "Bagaj yardımı",
+        "Erken kalkış"
+      ]
+    },
+    {
+      "id": "sightseeing-tours",
+      "title": "Turistik Turlar",
+      "description": "Şehrin en güzel yerlerini gezdiren özel turlar. Fotoğraf molası ve yerel hikayeler dahil.",
+      "icon": "camera",
+      "basePrice": 120,
+      "perKmPrice": null,
+      "hourlyRate": 120,
+      "features": [
+        "Özel rehberlik",
+        "Fotoğraf molası",
+        "Yerel hikayeler",
+        "Esnek program"
+      ]
+    },
+    {
+      "id": "business-meetings",
+      "title": "İş Toplantıları",
+      "description": "Profesyonel iş görüşmeleriniz için zamanında ve konforlu ulaşım hizmeti.",
+      "icon": "briefcase",
+      "basePrice": 25,
+      "perKmPrice": 10,
+      "features": [
+        "Profesyonel hizmet",
+        "Zamanında varış",
+        "Temiz takım elbise",
+        "Sessiz yolculuk"
+      ]
+    },
+    {
+      "id": "emergency-service",
+      "title": "Acil Durum Hizmeti",
+      "description": "24 saat acil durum transportu. Hastane, eczane ve acil durumlarınız için.",
+      "icon": "alertTriangle",
+      "basePrice": 30,
+      "perKmPrice": 12,
+      "surcharge": 25,
+      "features": [
+        "24/7 erişilebilir",
+        "Hızlı yanıt",
+        "Hastane bilgisi",
+        "Acil durum kiti"
+      ]
+    }
+  ]
+}

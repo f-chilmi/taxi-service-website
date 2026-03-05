@@ -1,0 +1,114 @@
+{
+  "hero": {
+    "title": "Güvenilir ve Profesyonel Taksi Hizmeti",
+    "subtitle": "8 yıllık deneyim • 24/7 hizmet • Şeffaf fiyatlandırma",
+    "ctaPrimary": "WhatsApp'tan İletişime Geç",
+    "ctaSecondary": "Telefon Et",
+    "trustBadge": "Lisanslı ve Güvenli"
+  },
+  "about": {
+    "title": "Popo ile Tanışın",
+    "content": "Merhaba! Ben Popo, 8 yıldır bu güzel şehirde taksi şoförü olarak hizmet veriyorum. Müşterilerime sadece bir ulaşım hizmeti değil, güvenli ve konforlu bir deneyim sunmayı amaçlıyorum.",
+    "experience": [
+      "8 yıl profesyonel sürücülük deneyimi",
+      "Temiz sürücü belgesi - hiç ceza puanı yok",
+      "Türkçe, İngilizce konuşabiliyorum",
+      "Şehirdeki tüm sokakları ve kestirme yolları biliyorum",
+      "5 yıldızlı müşteri memnuniyeti"
+    ],
+    "whyChoose": "Neden Popo'yu Seçmelisiniz:",
+    "reasons": [
+      "Her zaman zamanında",
+      "Temiz ve konforlu araç",
+      "Güler yüzlü ve profesyonel hizmet",
+      "Şeffaf fiyatlandırma - sürpriz ücret yok",
+      "24/7 acil durum hizmeti"
+    ]
+  },
+  "pricing": {
+    "title": "Şeffaf ve Uygun Fiyatlar",
+    "subtitle": "Gizli ücret yok - söylenen fiyat, ödenen fiyattır!",
+    "popularRoutes": "Popüler Güzergahlar:",
+    "serviceRates": "Hizmet Ücretleri:",
+    "paymentMethods": "Ödeme Seçenekleri:",
+    "routes": [
+      {
+        "route": "Şehir Merkezi ↔ Havalimanı",
+        "price": "₺150-200"
+      },
+      {
+        "route": "Otel Bölgesi ↔ Alışveriş Merkezi",
+        "price": "₺50-75"
+      },
+      {
+        "route": "Tren İstasyonu ↔ Şehir Merkezi",
+        "price": "₺40-60"
+      },
+      {
+        "route": "Turistik Mekanlar Arası",
+        "price": "₺80-120"
+      }
+    ],
+    "rates": [
+      {
+        "service": "Şehir İçi",
+        "rate": "₺8/km + ₺20 başlangıç ücreti"
+      },
+      {
+        "service": "Havalimanı Transfer",
+        "rate": "Mesafeye göre sabit fiyat"
+      },
+      {
+        "service": "Saatlik Ücret",
+        "rate": "₺120/saat (minimum 2 saat)"
+      },
+      {
+        "service": "Gece Servisi (22:00-06:00)",
+        "rate": "%25 ek ücret"
+      }
+    ],
+    "payments": ["Nakit", "Kredi Kartı", "Mobil Ödeme"]
+  },
+  "contact": {
+    "title": "İletişim ve Rezervasyon",
+    "hours": "Çalışma Saatleri:",
+    "channels": "İletişim Kanalları:",
+    "response": "Yanıt Süresi:",
+    "motto": "Müşteri memnuniyeti bizim önceliğimizdir!",
+    "schedule": [
+      {
+        "day": "Pazartesi-Cuma",
+        "hours": "06:00-24:00"
+      },
+      {
+        "day": "Cumartesi-Pazar",
+        "hours": "24 saat hizmet"
+      },
+      {
+        "day": "Acil Durum",
+        "hours": "Her zaman ulaşılabilir"
+      }
+    ],
+    "responseTime": [
+      {
+        "method": "WhatsApp",
+        "time": "Genellikle 5 dakika içinde"
+      },
+      {
+        "method": "Telefon",
+        "time": "Anında (çalışma saatleri)"
+      },
+      {
+        "method": "Rezervasyon",
+        "time": "En az 1 saat önceden"
+      }
+    ]
+  },
+  "reviews": {
+    "title": "Müşteri Yorumları",
+    "subtitle": "Müşterilerimizin deneyimleri",
+    "averageRating": "Ortalama Puan",
+    "totalReviews": "toplam değerlendirme",
+    "verified": "Doğrulanmış Müşteri"
+  }
+}
